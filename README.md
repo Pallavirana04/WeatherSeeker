@@ -1,2 +1,12 @@
-# WeatherSeeker
-A live weather app built with React.js, HTML, and CSS would allow users to search for and view weather information for their chosen locations. For the  backend we have use OpenWeatherMap.
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+</p>
+ <p align="center">
+  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+ </p>
+
+## Setup
+
+```
+npm i && npm start
+```
